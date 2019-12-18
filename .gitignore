@@ -1,2 +1,6 @@
 .idea/*
 *.pyc
+logs/*
+logs/.gitkeep
+Saved Objects/*
+Saved Objects/.gitkeep
